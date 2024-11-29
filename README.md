@@ -1,6 +1,12 @@
 # Bitwise Operations Program
 
-This program, written in C, performs bitwise operations and binary conversions on positive integers. It allows the user to input two integers, view their binary representation, and apply selected bitwise operations (`AND`, `OR`, `XOR`) interactively.
+This program, written in C, performs bitwise operations and binary conversions on positive integers. 
+It allows the user to input two integers, view their binary representation, and interactively apply 
+selected bitwise operations (`AND`, `OR`, `XOR`).
+
+Contributors:
+- Sana Achour - (https://github.com/sanaear)
+- Wiam Sbai - (https://github.com/SBWiam)
 
 ## Features
 
@@ -68,3 +74,4 @@ Le nombre binaire est : 111
 
 2
 a|b= 15
+
